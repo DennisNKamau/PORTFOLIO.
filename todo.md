@@ -1,0 +1,3 @@
+- [x] Toggle theme issue
+- [x] experience section broken in mobile
+- [ ] Add internalization
