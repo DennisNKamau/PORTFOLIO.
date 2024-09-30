@@ -3,41 +3,38 @@ import {
     GitHubLogoIcon,
     HomeIcon,
     LinkedInLogoIcon,
+    XLogoIcon,
   } from "@radix-ui/react-icons";
   import { GiNotebook } from "react-icons/gi";
   
   export const BLUR_FADE_DELAY = 0.1;
   
   export const DATA = {
-    name: "Renato Rocha Rodrigues",
-    initials: "RR",
-    avatarUrl: "/my-pic.jpg",
+    name: "Dennis Kamau",
+    initials: "DK",
+    avatarUrl: "public/my-pic.jpeg",
     resume:
-      "I'm a passionate and dedicated **software developer**, constantly seeking to enhance my skills and tackle new technological challenges. Started my career as a **Mobile Developer** focused in _Android_ and now I'm a **Frontend Developer** focused in creating responsive and modern web applications using _React_.",
+      "I'm a passionate and dedicated **software developer**, constantly seeking to enhance my skills and tackle new technological challenges. My journey in software development began with a keen interest in creating intuitive user experiences and now I'm a **Frontend Developer** focused in creating responsive and modern web applications using _React_.",
     description:
-      "Software Developer focused in Frontend. Self-taught and always eager to learn new technologies.",
+      "Software Developer focused in Frontend. I love building things and always eager to learn new technologies.",
     role: "Software Developer",
-    location: "Espirito Santo, Brazil",
+    location: "Nairobi Kenya",
   
     skills: [
+      "HTML",
+      "CSS",
+      "Javascript",
       "React",
       "Next",
       "Typescript",
       "Tailwind",
-      "Astro",
       "Vite",
       "Git",
-      "Docker",
+      "Linux",
       "PostgreSQL",
-      "Node",
-      "Prisma",
-      "Jest",
-      "Java",
-      "Kotlin",
-      "Android",
-      "Nginx",
-      "Bun",
-      "Elysia"
+      "Mysql",
+      "Python",
+      "VSCODE"
     ],
     navbar: [
       {
@@ -52,18 +49,18 @@ import {
       // },
     ],
     contact: {
-      email: "renatorrodrigues2002@gmail.com",
-      phone: "(27) 99311-7272",
+      email: "njaudennis30@gmail.com",
+      phone: "+254798450404",
       social: {
         Linkedin: {
           name: "Linkedin",
-          url: "https://www.linkedin.com/in/renato-rrodrigues/",
+          url: "https://www.linkedin.com/in/-dennis-kamau-/",
           icon: LinkedInLogoIcon,
           navbar: true,
         },
         Github: {
           name: "Github",
-          url: "https://github.com/renatorrocha",
+          url: "https://github.com/DennisNKamau",
           icon: GitHubLogoIcon,
           navbar: true,
         },
@@ -120,20 +117,20 @@ import {
     ],
     education: [
       {
-        institution: "Multivix",
-        href: "https://multivix.edu.br/",
-        degree: "Software Analysis and Development",
-        logoUrl: "/multivix.png",
-        start: "Jul 2022",
-        end: "Nov 2024",
+        institution: "The Co-operative University of Kenya",
+        href: "https://cuk.ac.ke/",
+        degree: "BSC Information Technology",
+        logoUrl: "public/cooperative university.png",
+        start: "Jul 2020",
+        end: "Nov 2023",
       },
       {
-        institution: "Rocketseat + Sirius",
-        href: "https://www.rocketseat.com.br/",
-        degree: "MBA in Fullstack Development",
-        logoUrl: "/rocketseat.png",
-        start: "Aug 2024",
-        end: "Aug 2025",
+        institution: "Moringa School",
+        href: "https://moringaschool.com/about-us/",
+        degree: "Software Engineering",
+        logoUrl: "public/moringa school.png",
+        start: "Feb 2024",
+        end: "Nov 2025",
       },
     ],
     projects: [
