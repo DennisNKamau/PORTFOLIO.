@@ -9,7 +9,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Renato.dev",
+  title: "Dennis.dev",
 };
 
 export default function RootLayout({
