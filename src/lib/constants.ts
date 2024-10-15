@@ -148,7 +148,7 @@ export const DATA = {
           href: "https://github.com/DennisNKamau/TEEBLAQ-BRANDS",
         },
       ],
-      imageUrl: "/public/teeblaqke.png",
+      image: "",
       video: "",
     },
     {
@@ -174,7 +174,7 @@ export const DATA = {
             href: "https://github.com/DennisNKamau/FullMunch",
         },
       ],
-      imageUrl: "/public/fullmunch.png",
+      image: "",
       video: "",
     },
   ],
