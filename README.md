@@ -41,4 +41,3 @@ I'm also available on **LinkedIn**: [Renato Rocha](https://www.linkedin.com/in/r
 ---
 
 Thank you for visiting my portfolio!
-
