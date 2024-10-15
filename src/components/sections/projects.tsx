@@ -34,7 +34,7 @@ export default function ProjectsSection() {
                 title={project.title}
                 description={project.description}
                 tags={project.technologies}
-                image={project.image}
+                image={project.imageUrl}
                 video={project.video}
                 links={project.links}
               />
