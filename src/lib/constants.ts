@@ -121,7 +121,7 @@ export const DATA = {
       href: "https://cuk.ac.ke/",
       degree: "Bachelors degree in Information Technology",
       logoUrl: "/rocketseat.png",
-      start: "Sep 2024",
+      start: "Sep 2020",
       end: "Aug 2023",
     },
   ],
