@@ -1,6 +1,6 @@
 ### Portfolio Overview
 
-Welcome to my portfolio!
+Welcome to my portfolio.
 
 This collection showcases my skills and projects in **web development**.
 
