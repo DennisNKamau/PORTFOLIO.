@@ -36,7 +36,7 @@ Utilizing technologies like **React** and **TypeScript**, I aim to create seamle
 
 For any assistance or collaboration, you can reach me at [renatorrodrigues2002@gmail.com](mailto:renatorrodrigues2002@gmail.com).
 
-I'm also available on **LinkedIn**: [Renato Rocha](https://www.linkedin.com/in/renato-rrodrigues/). Feel free to connect!
+I'm also available on **LinkedIn**: [Dennis Kamau]((https://www.linkedin.com/in/-dennis-kamau-/)). Feel free to connect!
 
 ---
 
