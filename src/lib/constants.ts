@@ -152,6 +152,31 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Car-Rental",
+      href: "https://dennotravels.netlify.app/",
+      active: false,
+      description:
+        "**CAR RENTAL** Website is a responsive platform built with HTML, CSS (Bootstrap), and JavaScript, designed for seamless car rental experiences. With a modern UI and interactive booking features, it caters to diverse travel needs, offering an engaging, professional service using core web technologies.",
+      technologies: [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "Web3 API",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dennotravels.netlify.app/",
+        },
+        {
+          type: "Code",
+          href: "https://github.com/DennisNKamau/Car-Rental",
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "FullMunch Fast foods",
       href: "https://fullmunch.netlify.app/",
       active: false,
