@@ -203,11 +203,11 @@ export const DATA = {
       video: "",
     },
     {
-      title: "echowebsolutions",
+      title: "Echoweb Solutions",
       href: "https://echowebsolutions.netlify.app/",
       active: false,
       description:
-        "FullMunch is a modern food delivery web application designed to bring delicious fast food, like burgers and fries, right to customers' doorsteps. The platform prioritizes a user-friendly experience, ensuring that ordering great meals is just a few clicks away. Built with a clean and responsive design, it’s crafted using HTML, CSS, and JavaScript.",
+        "Echoweb Solutions is the digital home of a professional web design agency dedicated to crafting innovative and user-centric websites. Specializing in responsive design, development, and online branding, the site showcases a commitment to delivering tailored web services that help businesses establish a strong online presence. From sleek interfaces to seamless functionality, Echoweb Solutions embodies creativity and technical excellence in every project.",
       technologies: [
         "HTML",
         "Javascript",
