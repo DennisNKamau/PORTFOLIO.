@@ -202,5 +202,31 @@ export const DATA = {
       image: "",
       video: "",
     },
+    {
+      title: "echowebsolutions",
+      href: "https://echowebsolutions.netlify.app/",
+      active: false,
+      description:
+        "FullMunch is a modern food delivery web application designed to bring delicious fast food, like burgers and fries, right to customers' doorsteps. The platform prioritizes a user-friendly experience, ensuring that ordering great meals is just a few clicks away. Built with a clean and responsive design, it’s crafted using HTML, CSS, and JavaScript.",
+      technologies: [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "Web3 Form API",
+        "Google maps API",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://echowebsolutions.netlify.app/",
+        },
+        {
+            type: "Code",
+            href: "https://github.com/DennisNKamau/EchoWeb-Solutions",
+        },
+      ],
+      image: "",
+      video: "",
+    },
   ],
 };
